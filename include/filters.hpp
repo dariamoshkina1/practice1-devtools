@@ -16,7 +16,7 @@ class Filters
 enum FILTERS_IMPLEMENTATIONS {
     OPENCV,
     // Add your enum value here
-    // YOUR_NAME,
+    MOSHKINA,
     NUM_IMPLS
 };
 
